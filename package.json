@@ -1,0 +1,23 @@
+{
+  "name": "kt-tsconfig-resolver",
+  "version": "1.0.1",
+  "description": "Utility to adjust and restore tsconfig.json for npm publication of KT Plugins",
+  "main": "index.js",
+  "bin": {
+    "tsconfig-to-prod": "./bin/tsconfig-to-prod.js",
+    "tsconfig-to-dev": "./bin/tsconfig-to-dev.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tsconfig",
+    "npm",
+    "utility"
+  ],
+  "author": "Miguel de Mendoza",
+  "license": "ISC",
+  "files": [
+    "bin/"
+  ]
+}
