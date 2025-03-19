@@ -1,6 +1,6 @@
 {
   "name": "kt-tsconfig-resolver",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utility to adjust and restore tsconfig.json for npm publication of KT Plugins",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "tsconfig",
     "npm",
     "utility"
   ],
